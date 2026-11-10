@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FindDeadlock/FindDeadlock.vcxproj" Id="283d2fa6-b476-4533-8209-78846f6807a3" />
+  <Project Path="Hockney/Hockney.vcxproj" Id="1c828d34-7c33-4585-a6f5-13bb87f3e24a" />
+  <Project Path="V0_sequential/V0_sequential.vcxproj" Id="5094325a-56e6-46c3-ac76-b5238d01eed8" />
+  <Project Path="V1_distributed/V1_distributed.vcxproj" Id="c03f97f2-bf83-4f38-bfa5-f1c7d4b2d933" />
+  <Project Path="V2_deadlock/V2_deadlock.vcxproj" Id="740b84e6-3d70-4ddd-9fb8-0db6277ea36b" />
+  <Project Path="V3_reduction/V3_reduction.vcxproj" Id="2b3dfbdd-ed61-48cb-afe7-19b09568275c" />
+</Solution>

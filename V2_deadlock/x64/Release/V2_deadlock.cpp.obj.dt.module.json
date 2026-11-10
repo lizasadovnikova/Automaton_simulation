@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\V2_deadlock.obj",
+            "outputs": [
+                "x64\\Release\\V2_deadlock.cpp.obj.dt.module.json",
+                "x64\\Release\\V2_deadlock.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
